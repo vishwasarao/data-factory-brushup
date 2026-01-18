@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy_1gk",
+				"name": "Copy_sftp_blob_1gk",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
