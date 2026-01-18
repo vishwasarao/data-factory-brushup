@@ -1,0 +1,9 @@
+{
+	"name": "test-df-core-rg",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19e07744-9f2d-41be-a974-9a394212d6db",
+		"tenantId": "ba925dd8-5d9a-4de7-b85e-a6351da0cbf3"
+	}
+}
